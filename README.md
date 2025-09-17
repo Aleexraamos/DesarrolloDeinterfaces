@@ -73,6 +73,40 @@ Esto es una seccion de ejemplo de enlace interno
 ## Mencinoes
 @Marttitasanz7
 
+Enlazo una nota al pie [^1]
+[^] Esa es la nota al pie 
+
+Enlazo una nota al pie [^nota]
+[^nota] tambien funciona con palabras
+
+| Alineadi izq | Alineadi cen | Alineadi dch |
+| --- | --- | --- |
+| Dato1 | Dato2 | Dato3 |
+| Dato4 | Dato5 | Dato6 |
+
+<details>
+  <summary>Resumen</summary>
+  Holaaa q taaaal como estamos
+</details>
+
+<details>
+  <summary>Cual es la sintaxys Python para imprimer por pantalla</summary>
+  
+  ```python
+  print(" texto ")
+  ```
+</details>
+
+```mermaid
+graph TD;
+A-->B;
+A-->C;
+B-->D;
+C-->D;
+```
+
+
+
 
 
 
