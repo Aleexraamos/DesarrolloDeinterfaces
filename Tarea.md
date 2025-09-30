@@ -19,3 +19,10 @@
 
 8. Estética y diseño minimalista -> No se cumple, no es un diseño minimalista y no es limpio.
 
+9. Ayuda al usuario a reconocer, diagnosticar y recuperarse de los errores ->No funciona el boton de entrar ni recuper la contraseña, no funciona la validacion del correo.
+ <img width="806" height="347" alt="image" src="https://github.com/user-attachments/assets/ea7978e7-cb81-4db9-a985-3b082066f0cb" />
+
+10.. Ayuda y documentación -> Si cumpleesta el telefono del ayuntamiento y telefonos de interes por si acaso.
+<img width="453" height="55" alt="image" src="https://github.com/user-attachments/assets/2bf47c35-b0b0-46e0-940b-65e1db1a2e55" />
+
+
